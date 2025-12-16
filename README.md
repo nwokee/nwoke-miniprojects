@@ -1,5 +1,9 @@
 # ___All Projects Currently In This Repository___
 
+### Projects in C++
+- Process Scheduling Simulation
+- Memory Management Simulation
+
 ### Projects in C
 - Bank Management System
 
